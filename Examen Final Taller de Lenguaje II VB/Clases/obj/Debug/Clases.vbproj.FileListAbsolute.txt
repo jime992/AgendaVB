@@ -1,0 +1,18 @@
+H:\FinalTaller2SoriaMJ\Clases\bin\Debug\Clases.dll
+H:\FinalTaller2SoriaMJ\Clases\bin\Debug\Clases.pdb
+H:\FinalTaller2SoriaMJ\Clases\bin\Debug\Clases.xml
+H:\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.vbprojResolveAssemblyReference.cache
+H:\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.Resources.resources
+H:\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.vbproj.GenerateResource.Cache
+H:\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.dll
+H:\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.xml
+H:\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\bin\Debug\Clases.dll
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\bin\Debug\Clases.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\bin\Debug\Clases.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.vbprojResolveAssemblyReference.cache
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.Resources.resources
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.vbproj.GenerateResource.Cache
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.dll
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Clases\obj\Debug\Clases.pdb

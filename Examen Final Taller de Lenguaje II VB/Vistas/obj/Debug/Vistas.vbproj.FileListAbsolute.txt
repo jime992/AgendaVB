@@ -1,0 +1,34 @@
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.exe.config
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.exe
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.pdb
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.xml
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Clases.dll
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Clases.pdb
+H:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Clases.xml
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.vbprojResolveAssemblyReference.cache
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.FrmAgenda.resources
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.Resources.resources
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.vbproj.GenerateResource.Cache
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.exe
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.xml
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.pdb
+H:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.frmDatos.resources
+D:\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.exe.config
+D:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.exe
+D:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.xml
+D:\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.exe.config
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.exe
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.exe
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Vistas.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Clases.dll
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Clases.pdb
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\bin\Debug\Clases.xml
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.vbprojResolveAssemblyReference.cache
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.FrmAgenda.resources
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.frmDatos.resources
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.Resources.resources
+D:\Jime - Pc\Desktop\Facu\taller II\Practicas de Taller II-final\FinalTaller2SoriaMJ\Vistas\obj\Debug\Vistas.vbproj.GenerateResource.Cache
